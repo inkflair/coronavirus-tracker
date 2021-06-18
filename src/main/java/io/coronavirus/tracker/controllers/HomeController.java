@@ -1,4 +1,4 @@
-package io.coronavirus.tracker.Controllers;
+package io.coronavirus.tracker.controllers;
 
 import io.coronavirus.tracker.models.LocationStats;
 import io.coronavirus.tracker.services.CoronaVirusDataService;
